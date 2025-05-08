@@ -1,3 +1,6 @@
+the program has not been released, there is not enough experience, I will finish it very soon.
+
+
 
 Сlean for school/college to draw contour cards.
 
